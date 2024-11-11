@@ -3,7 +3,7 @@ import time
 import pandas as pd
 
 
-API_TOKEN = "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" 
+API_TOKEN = "" 
 
 headers = {
     "Authorization": f"Bearer {API_TOKEN}"
